@@ -28,10 +28,5 @@ Thank you for using me <a href="https://t.me/RG_Anime_Group">😬</a>
 
 Subscribe ℹ️ @RG_Anime_Group if you ❤️ using this bot!
 EOM;
-reply_markup=InlineKeyboardMarkup(
-          [
-                    InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/RG_Anime_Group"
-                    ),
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
 require_once __DIR__ . "/../vendor/autoload.php";
